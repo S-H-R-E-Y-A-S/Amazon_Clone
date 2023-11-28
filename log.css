@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    padding: 95px;
+    margin: 0;
+    
+}
+.page{
+    margin: 85px;
+    padding: 10px;
+    margin-top: 15px;
+    align-content: center;
+    align-self: start;
+}
+/* .box{
+width: 490px;
+height: 65px;
+background-color: rgb(121, 255, 11);
+margin: 15px;
+text-align: center;
+justify-content: center;
+} */
+.container{
+    border: 2px solid black;
+    /* background-color: rgb(250, 239, 225); */
+}
+.container page{
+    justify-content: space-evenly;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
